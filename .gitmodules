@@ -1,0 +1,4 @@
+[submodule "tinyusdz"]
+	path = tinyusdz
+	url = ../../lighttransport/tinyusdz
+	branch = release
