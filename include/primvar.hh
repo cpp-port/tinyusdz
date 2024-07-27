@@ -1,0 +1,1 @@
+../tinyusdz/src/primvar.hh

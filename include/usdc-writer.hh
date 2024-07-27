@@ -1,0 +1,1 @@
+../tinyusdz/src/usdc-writer.hh

@@ -1,0 +1,1 @@
+../tinyusdz/src/value-type-macros.inc

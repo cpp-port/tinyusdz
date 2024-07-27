@@ -1,0 +1,1 @@
+../tinyusdz/src/crate-writer.hh

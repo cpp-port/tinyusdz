@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\bilinearPatchBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\catmarkPatchBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\error.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\loopPatchBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\patchBasis.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\patchBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\patchDescriptor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\patchMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\patchTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\patchTableFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\ptexIndices.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\stencilTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\stencilTableFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\stencilBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\topologyDescriptor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\topologyRefiner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\far\topologyRefinerFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\osd\cpuEvaluator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\osd\cpuKernel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\osd\cpuPatchTable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\src\osd\opensubdiv\osd\cpuVertexBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{343962D7-D3F5-3066-9087-88DB80C03FB7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

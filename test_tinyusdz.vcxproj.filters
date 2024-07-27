@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\tests\test-main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\main\port\graphics3d\tinyusdz\tinyusdz\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{343962D7-D3F5-3066-9087-88DB80C03FB7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

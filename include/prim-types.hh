@@ -1,0 +1,1 @@
+../tinyusdz/src/prim-types.hh

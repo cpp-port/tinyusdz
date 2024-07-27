@@ -1,0 +1,1 @@
+../tinyusdz/src/lz4-compression.hh

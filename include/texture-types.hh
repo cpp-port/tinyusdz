@@ -1,0 +1,1 @@
+../tinyusdz/src/texture-types.hh
