@@ -222,7 +222,6 @@
 		9ACBD86C2C57187A00480D13 /* audio-loader.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5A12C57187600480D13 /* audio-loader.hh */; };
 		9ACBD86D2C57187A00480D13 /* c-tinyusd.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5A22C57187600480D13 /* c-tinyusd.cc */; };
 		9ACBD86E2C57187A00480D13 /* c-tinyusd.h in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5A32C57187600480D13 /* c-tinyusd.h */; };
-		9ACBD86F2C57187A00480D13 /* common-macros.inc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5A42C57187600480D13 /* common-macros.inc */; };
 		9ACBD8702C57187A00480D13 /* composition.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5A52C57187600480D13 /* composition.cc */; };
 		9ACBD8712C57187A00480D13 /* composition.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5A62C57187600480D13 /* composition.hh */; };
 		9ACBD8722C57187A00480D13 /* crate-format.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5A72C57187600480D13 /* crate-format.cc */; };
@@ -233,7 +232,6 @@
 		9ACBD8772C57187A00480D13 /* crate-reader.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5AC2C57187600480D13 /* crate-reader.hh */; };
 		9ACBD8782C57187A00480D13 /* crate-writer.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5AD2C57187600480D13 /* crate-writer.cc */; };
 		9ACBD8792C57187A00480D13 /* crate-writer.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5AE2C57187600480D13 /* crate-writer.hh */; };
-		9ACBD87A2C57187A00480D13 /* define-type-trait.inc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5AF2C57187600480D13 /* define-type-trait.inc */; };
 		9ACBD87B2C57187A00480D13 /* handle-allocator.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5B02C57187600480D13 /* handle-allocator.hh */; };
 		9ACBD87C2C57187A00480D13 /* image-loader.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5B12C57187600480D13 /* image-loader.cc */; };
 		9ACBD87D2C57187A00480D13 /* image-loader.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5B22C57187600480D13 /* image-loader.hh */; };
@@ -252,7 +250,6 @@
 		9ACBD88A2C57187A00480D13 /* linear-algebra.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5BF2C57187600480D13 /* linear-algebra.hh */; };
 		9ACBD88B2C57187A00480D13 /* lz4-compression.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5C02C57187600480D13 /* lz4-compression.cc */; };
 		9ACBD88C2C57187A00480D13 /* lz4-compression.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5C12C57187600480D13 /* lz4-compression.hh */; };
-		9ACBD88D2C57187A00480D13 /* math-util.inc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5C22C57187600480D13 /* math-util.inc */; };
 		9ACBD88F2C57187A00480D13 /* path-util.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5C42C57187600480D13 /* path-util.cc */; };
 		9ACBD8902C57187A00480D13 /* path-util.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5C52C57187600480D13 /* path-util.hh */; };
 		9ACBD8912C57187A00480D13 /* performance.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5C62C57187600480D13 /* performance.cc */; };
@@ -263,7 +260,6 @@
 		9ACBD8962C57187A00480D13 /* prim-pprint.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5CB2C57187600480D13 /* prim-pprint.hh */; };
 		9ACBD8972C57187A00480D13 /* prim-reconstruct.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5CC2C57187600480D13 /* prim-reconstruct.cc */; };
 		9ACBD8982C57187A00480D13 /* prim-reconstruct.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5CD2C57187600480D13 /* prim-reconstruct.hh */; };
-		9ACBD8992C57187A00480D13 /* prim-type-macros.inc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5CE2C57187600480D13 /* prim-type-macros.inc */; };
 		9ACBD89A2C57187A00480D13 /* prim-types.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5CF2C57187600480D13 /* prim-types.cc */; };
 		9ACBD89B2C57187A00480D13 /* prim-types.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5D02C57187600480D13 /* prim-types.hh */; };
 		9ACBD89C2C57187A00480D13 /* primvar.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5D12C57187600480D13 /* primvar.cc */; };
@@ -279,14 +275,12 @@
 		9ACBD8A72C57187A00480D13 /* subdiv.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5DC2C57187600480D13 /* subdiv.cc */; };
 		9ACBD8A82C57187A00480D13 /* subdiv.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5DD2C57187600480D13 /* subdiv.hh */; };
 		9ACBD8A92C57187A00480D13 /* texture-types.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5DE2C57187600480D13 /* texture-types.hh */; };
-		9ACBD8AA2C57187A00480D13 /* tiny-any.inc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5DF2C57187600480D13 /* tiny-any.inc */; };
 		9ACBD8AB2C57187A00480D13 /* tiny-format.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5E02C57187600480D13 /* tiny-format.cc */; };
 		9ACBD8AC2C57187A00480D13 /* tiny-format.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5E12C57187600480D13 /* tiny-format.hh */; };
 		9ACBD8AD2C57187A00480D13 /* tiny-variant.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5E22C57187600480D13 /* tiny-variant.hh */; };
 		9ACBD8AE2C57187A00480D13 /* tinyusdz.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5E32C57187600480D13 /* tinyusdz.cc */; };
 		9ACBD8AF2C57187A00480D13 /* tinyusdz.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5E42C57187600480D13 /* tinyusdz.hh */; };
 		9ACBD8B02C57187A00480D13 /* token-type.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5E52C57187600480D13 /* token-type.hh */; };
-		9ACBD8B12C57187A00480D13 /* unicode-xid-table.inc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5E62C57187600480D13 /* unicode-xid-table.inc */; };
 		9ACBD8B22C57187A00480D13 /* unicode-xid.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5E72C57187600480D13 /* unicode-xid.hh */; };
 		9ACBD8B32C57187A00480D13 /* usd-to-json.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD5E82C57187600480D13 /* usd-to-json.cc */; };
 		9ACBD8B42C57187A00480D13 /* usd-to-json.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD5E92C57187600480D13 /* usd-to-json.hh */; };
@@ -317,7 +311,6 @@
 		9ACBD8CD2C57187A00480D13 /* value-eval-util.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD6022C57187600480D13 /* value-eval-util.hh */; };
 		9ACBD8CE2C57187A00480D13 /* value-pprint.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD6032C57187600480D13 /* value-pprint.cc */; };
 		9ACBD8CF2C57187A00480D13 /* value-pprint.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD6042C57187600480D13 /* value-pprint.hh */; };
-		9ACBD8D02C57187A00480D13 /* value-type-macros.inc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD6052C57187600480D13 /* value-type-macros.inc */; };
 		9ACBD8D12C57187A00480D13 /* value-types.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD6062C57187600480D13 /* value-types.cc */; };
 		9ACBD8D22C57187A00480D13 /* value-types.hh in Headers */ = {isa = PBXBuildFile; fileRef = 9ACBD6072C57187600480D13 /* value-types.hh */; };
 		9ACBD8D32C57187A00480D13 /* xform.cc in Sources */ = {isa = PBXBuildFile; fileRef = 9ACBD6082C57187600480D13 /* xform.cc */; };
@@ -637,7 +630,6 @@
 		9ACBD5AC2C57187600480D13 /* crate-reader.hh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = "crate-reader.hh"; sourceTree = "<group>"; };
 		9ACBD5AD2C57187600480D13 /* crate-writer.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "crate-writer.cc"; sourceTree = "<group>"; };
 		9ACBD5AE2C57187600480D13 /* crate-writer.hh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = "crate-writer.hh"; sourceTree = "<group>"; };
-		9ACBD5AF2C57187600480D13 /* define-type-trait.inc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.pascal; path = "define-type-trait.inc"; sourceTree = "<group>"; };
 		9ACBD5B02C57187600480D13 /* handle-allocator.hh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = "handle-allocator.hh"; sourceTree = "<group>"; };
 		9ACBD5B12C57187600480D13 /* image-loader.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "image-loader.cc"; sourceTree = "<group>"; };
 		9ACBD5B22C57187600480D13 /* image-loader.hh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = "image-loader.hh"; sourceTree = "<group>"; };
@@ -1186,7 +1178,6 @@
 				9ACBD5AC2C57187600480D13 /* crate-reader.hh */,
 				9ACBD5AD2C57187600480D13 /* crate-writer.cc */,
 				9ACBD5AE2C57187600480D13 /* crate-writer.hh */,
-				9ACBD5AF2C57187600480D13 /* define-type-trait.inc */,
 				9ACBD5B02C57187600480D13 /* handle-allocator.hh */,
 				9ACBD5B12C57187600480D13 /* image-loader.cc */,
 				9ACBD5B22C57187600480D13 /* image-loader.hh */,
@@ -1570,13 +1561,10 @@
 				9ACBD7742C57187800480D13 /* faceTopology.cpp in Sources */,
 				9ACBD83E2C57187A00480D13 /* fvarRefinement.cpp in Sources */,
 				9ACBD83C2C57187A00480D13 /* fvarLevel.cpp in Sources */,
-				9ACBD8AA2C57187A00480D13 /* tiny-any.inc in Sources */,
 				9ACBD77B2C57187900480D13 /* irregularPatchBuilder.cpp in Sources */,
 				9ACBD8972C57187A00480D13 /* prim-reconstruct.cc in Sources */,
-				9ACBD86F2C57187A00480D13 /* common-macros.inc in Sources */,
 				9ACBD8662C57187A00480D13 /* ascii-parser-timesamples.cc in Sources */,
 				9ACBD8C32C57187A00480D13 /* usdMtlx.cc in Sources */,
-				9ACBD8992C57187A00480D13 /* prim-type-macros.inc in Sources */,
 				9ACBD79A2C57187900480D13 /* catmarkPatchBuilder.cpp in Sources */,
 				9ACBD8CE2C57187A00480D13 /* value-pprint.cc in Sources */,
 				9ACBD8A72C57187A00480D13 /* subdiv.cc in Sources */,
@@ -1597,7 +1585,6 @@
 				9ACBD8592C57187A00480D13 /* prim-apply.cc in Sources */,
 				9ACBD8402C57187A00480D13 /* level.cpp in Sources */,
 				9ACBD8912C57187A00480D13 /* performance.cc in Sources */,
-				9ACBD8B12C57187A00480D13 /* unicode-xid-table.inc in Sources */,
 				9ACBD7862C57187900480D13 /* refinerSurfaceFactory.cpp in Sources */,
 				9ACBD7762C57187800480D13 /* faceVertex.cpp in Sources */,
 				9ACBD8AB2C57187A00480D13 /* tiny-format.cc in Sources */,
@@ -1620,8 +1607,6 @@
 				9ACBD8C92C57187A00480D13 /* usdSkel.cc in Sources */,
 				9ACBD8952C57187A00480D13 /* prim-composition.cc in Sources */,
 				9ACBD7B32C57187900480D13 /* stencilTable.cpp in Sources */,
-				9ACBD87A2C57187A00480D13 /* define-type-trait.inc in Sources */,
-				9ACBD8D02C57187A00480D13 /* value-type-macros.inc in Sources */,
 				9ACBD8CB2C57187A00480D13 /* usdVox.cc in Sources */,
 				9ACBD89E2C57187A00480D13 /* pxr-compat.cc in Sources */,
 				9ACBD8C72C57187A00480D13 /* usdShade.cc in Sources */,
@@ -1630,7 +1615,6 @@
 				9ACBD85F2C57187A00480D13 /* shader-network.cc in Sources */,
 				9ACBD8722C57187A00480D13 /* crate-format.cc in Sources */,
 				9ACBD8832C57187A00480D13 /* integerCoding.cpp in Sources */,
-				9ACBD88D2C57187A00480D13 /* math-util.inc in Sources */,
 				9ACBD8932C57187A00480D13 /* pprinter.cc in Sources */,
 				9ACBD8B32C57187A00480D13 /* usd-to-json.cc in Sources */,
 				9ACBD88F2C57187A00480D13 /* path-util.cc in Sources */,
